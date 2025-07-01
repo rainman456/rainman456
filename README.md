@@ -1,5 +1,10 @@
 ## Hi there 👋
-## 🔭 I’m Andre a mostly self-taught programmer and researcher for all things systems.
-## I'm currently creating my personal blog right now so expect something nice
-## Reach out to me anytime on  X
+
+I'm **Andre**, a mostly self-taught programmer and systems enthusiast with a deep curiosity for how things work under the hood — from low-level bits and bytes to distributed systems.
+
+🔬 I spend most of my time exploring systems programming, reverse engineering, and building tools that help me (and others) understand complex systems better.
+
+🛠️ Currently, I’m working on launching my personal blog — expect technical deep-dives, dev logs, and research write-ups coming soon!
+
+📬 Feel free to reach out or connect with me on [X](https://x.com/DersonEfox) — I’m always open to chat, collaborate, or just nerd out about tech.
 
